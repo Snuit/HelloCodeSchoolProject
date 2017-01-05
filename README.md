@@ -52,9 +52,13 @@ You don't need to run and of the tests locally -- they'll all run when you submi
 First off, install [node.js](https://nodejs.org/en/) locally. Next you'll need to run a few commands from this folder.
 
 ```
-$ npm install
-$ npm test
+$npm install
+
+echo $npm install;
+
+$npm test
 ```
+echo $npm test;
 
 If everything is working, you should see something like this:
 
